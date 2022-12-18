@@ -18,10 +18,8 @@
     
 </div> <br/>
 
-## “A persistência é o caminho do êxito”
-
+### “A persistência é o caminho do êxito”
 (Charles Chaplin)
 
 ## Pricipais Projetos
 - https://organo-alura-five.vercel.app/
-
