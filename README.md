@@ -16,5 +16,12 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     
-</div>
+</div> <br/>
+
+## “A persistência é o caminho do êxito”
+
+(Charles Chaplin)
+
+## Pricipais Projetos
+- https://organo-alura-five.vercel.app/
 
