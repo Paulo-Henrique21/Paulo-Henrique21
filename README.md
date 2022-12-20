@@ -5,7 +5,7 @@
   <img height="200em" width="49%" src="https://github-readme-stats.vercel.app/api?username=Paulo-Henrique21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="200em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Henrique21&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<div style="display: inline_block"><br>
+<div align="center"><br>
   <img align="center" alt="PH-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="PH-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="PH-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -15,16 +15,18 @@
   
   ##
  
-<div> 
+<div align="center"> 
   <a href = "mailto:ph.santc2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/paulo-henrique-souza-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Paulo-Henrique21&bg_color=fff&color=000000&line=28199a&point=7c82a2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 </div>
-  
-## Pricipais Projetos
-- https://organo-alura-five.vercel.app/
+  <h2 align="center">Pricipais Projetos</h2>
+<div align="center">
+<a href="https://organo-alura-five.vercel.app/" target="_blank"> - Criador de Card</a> 
+</div>
+
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
