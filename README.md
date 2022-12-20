@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/Paulo-Henrique21">
-  <img height="200em" width="49%" src="https://github-readme-stats.vercel.app/api?username=Paulo-Henrique21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="200em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Henrique21&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="200em" width="49%" src="https://github-readme-stats.vercel.app/api?username=Paulo-Henrique21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="200em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Henrique21&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div align="center"><br>
   <img align="center" alt="PH-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -26,7 +26,7 @@
   <a href = "mailto:ph.santc2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/paulo-henrique-souza-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Paulo-Henrique21&bg_color=fff&color=000000&line=28199a&point=7c82a2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Paulo-Henrique21&bg_color=none&color=628FDB&line=28199a&point=7c82a2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 </div>
   <h2 align="center">Pricipais Projetos</h2>
@@ -36,7 +36,7 @@
 
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Paulo-Henrique21}/count.svg" /></p> 
 <br>
 </div>
