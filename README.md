@@ -23,8 +23,8 @@
  
 </div>
   <h2 align="center">Pricipais Projetos</h2>
-<div align="center" target="_blank">
-<a href="https://organo-alura-five.vercel.app/">- Criador de Card</a> 
+<div align="center">
+<a href="https://organo-alura-five.vercel.app/" target="_blank">- Criador de Card</a> 
 </div>
 
 
