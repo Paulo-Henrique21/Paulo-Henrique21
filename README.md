@@ -33,6 +33,9 @@
 <div align="center">
 <a href="https://organo-alura-five.vercel.app/" target="_blank">- Criador de Card</a> 
 </div>
+<div align="center">
+<a href="https://lista-de-tarefas-typescript-beta.vercel.app/" target="_blank">- Lista de Tarefas</a> 
+</div>
 
 
 <div align="center">
