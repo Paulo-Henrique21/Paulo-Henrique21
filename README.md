@@ -1,6 +1,6 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=628FDB&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Paulo+Henrique;I'm+22+years+old;I'm+from+Brazil;I+Course+systems+analysis+and+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">
+<div align="center" height="200em">
   <a href="https://github.com/Paulo-Henrique21">
   <img height="200em" width="49%" src="https://github-readme-stats.vercel.app/api?username=Paulo-Henrique21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="200em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Henrique21&layout=compact&langs_count=7&theme=tokyonight"/>
