@@ -36,6 +36,12 @@
 <div align="center">
 <a href="https://lista-de-tarefas-typescript-beta.vercel.app/" target="_blank">- Lista de Tarefas</a> 
 </div>
+<div align="center">
+<a href="https://geradordesenhaphdev.netlify.app/" target="_blank">- Gerador de senha</a> 
+</div>
+<div align="center">
+<a href="https://calculadora-ph-dev.netlify.app/" target="_blank">- Calculadora</a> 
+</div>
 
 
 <div align="center">
