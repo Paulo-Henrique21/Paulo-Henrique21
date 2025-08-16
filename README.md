@@ -42,9 +42,3 @@
 <div align="center">
 <a href="https://calculadora-juros-compostos-seven.vercel.app/" target="_blank">- Calculadora de Juros Compostos</a> 
 </div>
-
-<div align="center">
-<br><p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Paulo-Henrique21}/count.svg" /></p> 
-<br>
-</div>
