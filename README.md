@@ -14,10 +14,6 @@
   <img align="center" alt="PH-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="PH-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> 
   <img align="center" alt="PH-Btp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-          
-
-
-
 </div>
   
   ##
@@ -29,7 +25,8 @@
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Paulo-Henrique21&bg_color=none&color=628FDB&line=628FDB&point=#1A1B27&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 </div>
-  <h2 align="center">Pricipais Projetos</h2>
+
+<h2 align="center">Principais Projetos</h2>
 <div align="center">
 <a href="https://organo-alura-five.vercel.app/" target="_blank">- Criador de Card</a> 
 </div>
@@ -37,17 +34,17 @@
 <a href="https://lista-de-tarefas-typescript-beta.vercel.app/" target="_blank">- Lista de Tarefas</a> 
 </div>
 <div align="center">
-<a href="https://geradordesenhaphdev.netlify.app/" target="_blank">- Gerador de senha</a> 
+<a href="https://geradordesenhaphdev.netlify.app/" target="_blank">- Gerador de Senha</a> 
 </div>
 <div align="center">
 <a href="https://calculadora-ph-dev.netlify.app/" target="_blank">- Calculadora</a> 
 </div>
-
+<div align="center">
+<a href="https://calculadora-juros-compostos-seven.vercel.app/" target="_blank">- Calculadora de Juros Compostos</a> 
+</div>
 
 <div align="center">
 <br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Paulo-Henrique21}/count.svg" /></p> 
 <br>
 </div>
-
-
