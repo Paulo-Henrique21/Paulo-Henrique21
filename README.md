@@ -49,14 +49,6 @@
 <a href="https://task-ui.onrender.com/" target="_blank">- Crud de Tasks Full Stack</a> 
 </div>
 <div align="center">
-<a href="https://organo-alura-five.vercel.app/" target="_blank">- Criador de Card</a> 
-</div>
-<div align="center">
-<a href="https://lista-de-tarefas-typescript-beta.vercel.app/" target="_blank">- Lista de Tarefas</a> 
-</div>
-<div align="center">
 <a href="https://geradordesenhaphdev.netlify.app/" target="_blank">- Gerador de Senha</a> 
 </div>
-<div align="center">
-<a href="https://calculadora-ph-dev.netlify.app/" target="_blank">- Calculadora</a> 
-</div>
+
