@@ -41,6 +41,13 @@
 </div>
 
 <h2 align="center">Principais Projetos</h2>
+
+<div align="center">
+<a href="https://calculadora-juros-compostos-seven.vercel.app/" target="_blank">- Calculadora de Juros Compostos</a> 
+</div>
+<div align="center">
+<a href="https://task-ui.onrender.com/" target="_blank">- Crud de Tasks Full Stack</a> 
+</div>
 <div align="center">
 <a href="https://organo-alura-five.vercel.app/" target="_blank">- Criador de Card</a> 
 </div>
@@ -52,7 +59,4 @@
 </div>
 <div align="center">
 <a href="https://calculadora-ph-dev.netlify.app/" target="_blank">- Calculadora</a> 
-</div>
-<div align="center">
-<a href="https://calculadora-juros-compostos-seven.vercel.app/" target="_blank">- Calculadora de Juros Compostos</a> 
 </div>
