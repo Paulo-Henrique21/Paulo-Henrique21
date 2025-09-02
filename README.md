@@ -43,6 +43,9 @@
 <h2 align="center">Principais Projetos</h2>
 
 <div align="center">
+<a href="https://ui-despesas.vercel.app/" target="_blank">- Gerenciador de Despesas Recorrentes</a> 
+</div>
+<div align="center">
 <a href="https://calculadora-juros-compostos-seven.vercel.app/" target="_blank">- Calculadora de Juros Compostos</a> 
 </div>
 <div align="center">
